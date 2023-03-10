@@ -1,40 +1,21 @@
 payload:
   - DOMAIN,emby.enjoyit.eu.org
-  - DOMAIN-SUFFIX,agahk1.jmsooo.com
-  - DOMAIN-SUFFIX,agajp1.jmsooo.com
-  - DOMAIN-SUFFIX,agasg1.jmsooo.com
-  - DOMAIN-SUFFIX,aws.jmsooo.com
-  - DOMAIN-SUFFIX,cf1.jmsooo.com
-  - DOMAIN-SUFFIX,cristiamo.xyz
-  - DOMAIN-SUFFIX,emby.cjpc.cc
-  - DOMAIN-SUFFIX,emby.cjpc.tv
-  - DOMAIN-SUFFIX,emby.cjpc.xyz
-  - DOMAIN-SUFFIX,emby.cristiamo.top
-  - DOMAIN-SUFFIX,emby.flowercloud.yt
-  - DOMAIN-SUFFIX,emby.immtel.com
-  - DOMAIN-SUFFIX,emby.maying.club
-  - DOMAIN-SUFFIX,emby.mcwy.me
-  - DOMAIN-SUFFIX,emby.mdss.cloud
+  - DOMAIN,singularity.deja-vu.beauty
   - DOMAIN-SUFFIX,emby.neko.edu.rs
-  - DOMAIN-SUFFIX,emby.nexitally.com
-  - DOMAIN-SUFFIX,emby.nyancat.net
-  - DOMAIN-SUFFIX,emby.ok.edu.hk
-  - DOMAIN-SUFFIX,emby.paoche.ooo
-  - DOMAIN-SUFFIX,emby.prprcloud.com
-  - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,emby.xeton.dev
-  - DOMAIN-SUFFIX,emby.ytoo.li
-  - DOMAIN-SUFFIX,embyserver.ga
-  - DOMAIN-SUFFIX,hinet.jmsooo.com
-  - DOMAIN-SUFFIX,jellyfin.xeton.dev
-  - DOMAIN-SUFFIX,line.emby.men
-  - DOMAIN-SUFFIX,mickeycloud.com
-  - DOMAIN-SUFFIX,movie.xeton.dev
-  - DOMAIN-SUFFIX,ntt1.jmsooo.com
-  - DOMAIN-SUFFIX,plusmedia.site
-  - DOMAIN-SUFFIX,servers.xeton.dev
-  - DOMAIN-SUFFIX,singularity.deja-vu.beauty
+  - DOMAIN-SUFFIX,poloemby.xyz
+  - DOMAIN-SUFFIX,emby.pro
+  - DOMAIN-SUFFIX,infinityfly.top
+  - DOMAIN-SUFFIX,cf.222921.xyz
+  - DOMAIN-SUFFIX,bsem.ddns.me
+  - DOMAIN-SUFFIX,11.loseremby.org
+  - DOMAIN-SUFFIX,emby.9191001.xyz
+  - DOMAIN-SUFFIX,play.acemby.org
+  - DOMAIN-SUFFIX,by.zi0.icu
+  - DOMAIN-SUFFIX,film.nmg.llc
+  - DOMAIN-SUFFIX,emby.wiri.tk
+  - DOMAIN-SUFFIX,s2.amazing910.top
+  - DOMAIN-SUFFIX,cf.studyfun.live
+  - DOMAIN-SUFFIX,emby.agon.cf
+  - DOMAIN-SUFFIX,21s.casacam.net
+  - DOMAIN-SUFFIX,emby.ednovas.org
   - DOMAIN-KEYWORD,singularity
-  - DOMAIN-KEYWORD,emby.wtf
-  - DOMAIN-KEYWORD,jmsooo
-  - DOMAIN-KEYWORD,odysseyplus

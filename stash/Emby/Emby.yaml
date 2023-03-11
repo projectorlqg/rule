@@ -1,6 +1,5 @@
 payload:
   - DOMAIN,emby.enjoyit.eu.org
-  - DOMAIN,140.238.30.246:8096
   - DOMAIN,singularity.deja-vu.beauty
   - DOMAIN-SUFFIX,emby.neko.edu.rs
   - DOMAIN-SUFFIX,poloemby.xyz

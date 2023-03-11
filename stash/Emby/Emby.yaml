@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,emby.enjoyit.eu.org
+  - DOMAIN,free.ju.dog
   - DOMAIN,singularity.deja-vu.beauty
   - DOMAIN-SUFFIX,emby.neko.edu.rs
   - DOMAIN-SUFFIX,poloemby.xyz
@@ -18,5 +19,4 @@ payload:
   - DOMAIN-SUFFIX,emby.agon.cf
   - DOMAIN-SUFFIX,21s.casacam.net
   - DOMAIN-SUFFIX,emby.ednovas.org
-  - DOMAIN-SUFFIX,free.ju.dog
   - DOMAIN-KEYWORD,singularity

@@ -1,22 +1,23 @@
 payload:
   - DOMAIN,emby.enjoyit.eu.org
   - DOMAIN,singularity.deja-vu.beauty
-  - DOMAIN-SUFFIX,emby.neko.edu.rs
   - DOMAIN-SUFFIX,poloemby.xyz
   - DOMAIN-SUFFIX,emby.pro
   - DOMAIN-SUFFIX,infinityfly.top
   - DOMAIN-SUFFIX,cf.222921.xyz
   - DOMAIN-SUFFIX,bsem.ddns.me
   - DOMAIN-SUFFIX,11.loseremby.org
-  - DOMAIN-SUFFIX,emby.9191001.xyz
+  - DOMAIN-SUFFIX,9191001.xyz
   - DOMAIN-SUFFIX,play.acemby.org
   - DOMAIN-SUFFIX,by.zi0.icu
   - DOMAIN-SUFFIX,film.nmg.llc
-  - DOMAIN-SUFFIX,emby.wiri.tk
+  - DOMAIN-SUFFIX,wiri.tk
   - DOMAIN-SUFFIX,s2.amazing910.top
   - DOMAIN-SUFFIX,cf.studyfun.live
   - DOMAIN-SUFFIX,emby.agon.cf
   - DOMAIN-SUFFIX,21s.casacam.net
   - DOMAIN-SUFFIX,emby.ednovas.org
   - DOMAIN-SUFFIX,free.ju.dog
+  - DOMAIN-SUFFIX,nakoemby.com
+  - DOMAIN-SUFFIX,alist.choc.ga
   - DOMAIN-KEYWORD,singularity
